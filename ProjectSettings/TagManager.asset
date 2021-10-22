@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Preview
+  - onSimulate
+  - DeadArea
+  - NormalGround
+  - JumpGround
+  - GoalFlag
+  - DeleteGraph
+  - DynamicGraph
+  - DynamicCircle
+  - Metaball_liquid
+  - CirclePanel
+  - GraphPanel
+  - Character
+  - BasketHoop
+  - Ball
+  - Shooter
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - WaterPermeate
+  - Water
+  - UI
+  - Post Processing
+  - Background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackGround
+    uniqueID: 678358507
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Normal Objects
+    uniqueID: 197925173
+    locked: 0
+  - name: Character Layer
+    uniqueID: 1147369363
+    locked: 0
+  - name: UI Layer
+    uniqueID: 4193210877
+    locked: 0
